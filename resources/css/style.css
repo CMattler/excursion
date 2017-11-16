@@ -1,16 +1,19 @@
 html {
   background-color: black;
   text-align: center;
+  font-family: verdana;
 }
 
 h1 {
-  font-family: verdana;
   color: white;
+  font-weight: 300;
+  font-size: 42px;
 }
 
 .discover {
   font-weight: normal;
   font-size: 50px;
+
 }
 
 a {
